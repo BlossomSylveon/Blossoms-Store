@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "Goofy Server",
+            "address": "https://anisette-v3-server-7qmh.onrender.com/"
+        }
+    ]
+}
